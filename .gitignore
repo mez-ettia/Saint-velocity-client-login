@@ -1,0 +1,16 @@
+# Ruflo local secrets and runtime data
+.env
+.env.local
+.env.*.local
+.claude-flow/data/
+.claude-flow/logs/
+.claude-flow/sessions/
+.claude/settings.json.bak-*
+.swarm/*.db
+.swarm/*.db.*
+.swarm/*.db-*
+.claude-flow/metrics/
+.claude-flow/mods/session.json
+.claude-flow/protector-mod/alerts.jsonl
+.claude-flow/protector-mod/status.json
+.claude-flow/policy/state.json

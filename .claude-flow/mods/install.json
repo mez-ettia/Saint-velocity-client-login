@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "installedAt": "2026-11-25T20:35:09.371Z",
+  "files": {
+    "/home/user/Saint-velocity-client-login/.claude/settings.json": {
+      "plugins": [
+        "ruflo-mods@ruflo",
+        "ruflo-swarm@ruflo",
+        "ruflo-console@ruflo",
+        "ruflo-protector@ruflo"
+      ],
+      "marketplace": true,
+      "env": true,
+      "claudeInstalled": [
+        "ruflo-mods@ruflo",
+        "ruflo-swarm@ruflo",
+        "ruflo-console@ruflo",
+        "ruflo-protector@ruflo"
+      ]
+    }
+  }
+}
