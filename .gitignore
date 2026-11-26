@@ -14,3 +14,6 @@
 .claude-flow/protector-mod/alerts.jsonl
 .claude-flow/protector-mod/status.json
 .claude-flow/policy/state.json
+.claude-flow/cost/
+.claude-flow/protector-mod/ring.json
+.claude-flow/protector-mod/baseline.json

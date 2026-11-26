@@ -8,8 +8,7 @@
   "permissions": {
     "allow": [
       "Bash(npx @claude-flow*)",
-      "Bash(npx claude-flow*)",
-      "mcp__claude-flow__*"
+      "Bash(npx claude-flow*)"
     ],
     "deny": [
       "Read(./.env)",
